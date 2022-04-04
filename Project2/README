@@ -1,0 +1,6 @@
+| Cryptocurrency exchange calculator |
+
+This script is a very simple script to run.  No extra pluggins are required to run this script.  In short, you will download the cryptocurrency.py, 
+then just simply run the script.  From there, you will be asked how much USD you want to convert to a specific crypto.  So for example, if you wanted to
+convert USD to Bitcoin, you will enter "1" in the input.  After that, you will input how much you want to convert.  After hitting enter again, it will
+display the conversion price of your entered amount of USD to Bitcoin!
